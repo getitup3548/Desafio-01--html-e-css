@@ -1,6 +1,4 @@
-.body{ 
-      
-    }
+
 
 .name{
     font-family: arial;
@@ -13,6 +11,11 @@
 }
 
 .box2{
+    font-weight: bold;
+    font-family: arial;
+}
+
+.box3{
     font-weight: bold;
     font-family: arial;
 }
